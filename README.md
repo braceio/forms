@@ -1,4 +1,6 @@
 
+**NOTE:** This project is not being actively maintained. Please see the fork at [github.com/asm-products/formspree](http://github.com/asm-products/formspree) for further development, and join the discussion at [assembly.com/formspree](http://assembly.com/formspree).
+
 
 FORMS by Brace
 --------------
@@ -32,22 +34,6 @@ Go to your website and submit the form once. This will send you an email asking 
 
 From now on, when someone submits that form, we'll forward you the data as email.
 
-## Some questions you might have:
-
-### Who are you guys?
-
-We're the same folks who make Brace.io, the simple way to host websites. Brace Forms is a side project that solves a problem many of Brace.io users seem to face: having forms on otherwise static HTML pages.
-What about privacy?
-
-We don't store contents of the form submissions. Emails are sent using Mailgun's API, so on that end their privacy policies apply.
-
-### How much does it cost?
-
-Formspree is free for 1000 submissions per email each month. If you need more, please reach out.
-
-### Are there any limits?
-
-Yep, for now we cap submissions to 1000 per email for each month. If you need more, please reach out to team@brace.io.
 
 ## Advanced features:
 
